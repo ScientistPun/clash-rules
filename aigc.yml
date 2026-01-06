@@ -1,8 +1,0 @@
-# NAME: AIGC-CN
-# AUTHOR: scientistpun
-payload:
-  - DOMAIN-SUFFIX,hf-mirror.com
-  - SRC-IP-CIDR,160.16.86.14/32
-  - DOMAIN-SUFFIX,civitai.work
-  - SRC-IP-CIDR,104.21.66.109/32
-  - SRC-IP-CIDR,172.67.159.113/32
